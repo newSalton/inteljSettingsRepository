@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Freeline" description="阿里巴巴Freeline构建" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="python F:\01NewSaltonKeep\AndroidCode\demo\MengMei\freeline.py" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="F:/01NewSaltonKeep/AndroidCode/demo/MengMei" />
+    </exec>
+  </tool>
+</toolSet>
