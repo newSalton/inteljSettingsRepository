@@ -1,0 +1,3 @@
+<keymap version="1" name="MyCodeStyle" parent="Eclipse">
+  <action id="EditorChooseLookupItemReplace" />
+</keymap>
