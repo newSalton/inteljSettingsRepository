@@ -1,6 +1,7 @@
 <application>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="DEBUGGER_TRANSPORT" value="1" />
     <option name="FORCE_CLASSIC_VM" value="true" />
     <option name="SKIP_SYNTHETIC_METHODS" value="true" />
     <option name="SKIP_CLASSLOADERS" value="true" />
@@ -65,7 +66,10 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
       <debugger id="ObjectiveC">
         <configuration>
