@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/Bilibili/ijkplayer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/newSalton/OnlyOne.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\workspace\ijkplayer" />
+    <option name="cloneParentDir" value="H:\workspace\" />
   </component>
 </application>
