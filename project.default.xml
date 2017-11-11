@@ -31,10 +31,6 @@
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-      </component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -120,6 +116,22 @@
         <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
         </configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>Android API 15 Platform</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>

@@ -3,11 +3,7 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Bilibili/ijkplayer.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/newSalton/OnlyOne.git" />
+          <option name="url" value="https://github.com/drakeet/MultiType.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -15,23 +11,35 @@
           <option name="userName" value="563185579@qq.com" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/YoKeyword/Fragmentation.git" />
+          <option name="url" value="https://github.com/square/okhttp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/tamir7/Contacts.git" />
+          <option name="url" value="https://github.com/ReactiveX/RxJava.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Ashok-Varma/BottomNavigation.git" />
+          <option name="url" value="https://github.com/bumptech/glide.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/lipangit/JieCaoVideoPlayer.git" />
+          <option name="url" value="https://github.com/ssseasonnn/RxDownload.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/babylikebird/YinYueTai.git" />
+          <option name="url" value="https://github.com/bingoogolapple/BGAAdapter-Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/385841539/RecycleviewStaggered.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Frank-Zhu/AndroidRecyclerViewDemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Sing1/UIAdapter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -39,23 +47,51 @@
           <option name="userName" value="wujinsheng" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/wyouflf/xUtils3.git" />
+          <option name="url" value="https://github.com/star3136/StrokeTextView.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/CymChad/BaseRecyclerViewAdapterHelper.git" />
+          <option name="url" value="https://github.com/hcq0618/Android-SGTextView.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Cuieney/kotlin-life.git" />
+          <option name="url" value="https://github.com/Bearded-Hen/Android-Bootstrap.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/aliumujib/Orin.git" />
+          <option name="url" value="https://github.com/NattieVivid/strokeText.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/iiShadow/TextStroke.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alibaba/ARouter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/didi/VirtualAPK.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/google-ar/arcore-android-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/florent37/ViewAnimator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/antoniolg/androidmvp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ryanhoo/StylishMusicPlayer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\workspace\" />
+    <option name="cloneParentDir" value="H:\wpdemo" />
   </component>
 </application>
